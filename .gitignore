@@ -76,3 +76,19 @@ DSP/fft/run_all_fft_examples.sh
 ## OS / Editor defaults
 .DS_Store
 .vscode/
+
+
+# Vivado generated files and folders
+*.jou
+*.log
+*.str
+*.cache/
+*.runs/
+*.gen/
+*.ip_user_files/
+*.hw/
+*.sim/
+.Xil/
+
+# UI metadata (changes every time you click the block design)
+*.srcs/sources_1/bd/*/ui/
